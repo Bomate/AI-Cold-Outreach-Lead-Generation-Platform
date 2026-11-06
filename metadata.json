@@ -1,0 +1,6 @@
+{
+  "name": "OutreachAI",
+  "description": "AI B2B cold email outreach agent with email verification, psychology-driven personalized drafting, and campaign performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
